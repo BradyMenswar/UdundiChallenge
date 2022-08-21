@@ -1,35 +1,40 @@
-# UdundiChallenge
+# Udundi Coding Challenge
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-## Customize configuration
+## Overview
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### The challenge
 
-## Project Setup
+Users should be able to:
 
-```sh
-npm install
-```
+- See an animation on the "Explore" text on page load.
+- See an animation on the text box when "More Details" is clicked.
 
-### Compile and Hot-Reload for Development
+### Links
 
-```sh
-npm run dev
-```
+- Live Site URL: [Live Version](https://bradymenswar.github.io/UdundiChallenge/)
 
-### Compile and Minify for Production
+## My process
 
-```sh
-npm run build
-```
+### Built with
+- VueJS
+- SCSS
+- Bootstrap
 
-### Lint with [ESLint](https://eslint.org/)
+### Continued development
 
-```sh
-npm run lint
-```
+I believe that with more time put in to this project I would reconsider my initial approach and try to use an svg for the button and morph it to more closely replicate the intended effect. This project took around 3 1/2 hours.
+
+## Author
+
+- Brady Menswar
